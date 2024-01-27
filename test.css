@@ -1,0 +1,46 @@
+h1{
+    color:rgb(56, 27, 160);
+    font-size:24px;
+}
+
+
+/* class前面要加. */
+.SQ{
+    list-style-type: square;
+}
+
+article{
+    background-color: rgb(162, 102, 24);
+}
+
+section{
+background-color: rgb(124, 158, 47);   
+}
+
+.one{
+    background-color: rgb(170, 79, 127);   
+    }
+
+.two{
+background-color: rgb(199, 112, 75);   
+    }
+
+.three{
+    background-color: rgb(123, 117, 188);   
+    }
+
+.span_class{
+    background: rgb(97, 175, 203);
+}
+
+.solved{
+    width=20;
+    
+}
+
+.fix{
+    table-layout: fixed;
+    border-style: dotted;
+    width: 500px;
+    /* border="1" style="width: 500px;" */
+}
